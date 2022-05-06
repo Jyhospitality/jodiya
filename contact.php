@@ -6,7 +6,7 @@
 		$msg=$_POST['msg'];
 
 		$to='hoteljodiya64@gmail.com'; // Receiver Email ID, Replace with your email ID
-		$subject='Website Query: Hotel Abad Inn 2';
+		$subject='Website Query: Hotel Jodiya';
 		$message="Name :".$name."\n"."Phone :".$phone."\n"."Wrote the following :"."\n\n".$msg;
 		$headers="From: ".$email;
 
